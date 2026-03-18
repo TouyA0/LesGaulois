@@ -63,7 +63,7 @@ public class Gaulois {
 			System.out.println("Le Gaulois " + nom + " : \"Bonjour, je m'appelle " + nom + ". J'habite le village : "
 					+ village.getNom() + ".\"");
 		} else {
-			System.out.println("Le Gaulois " + nom + " : \"Bonjour, je m'appelle " + nom + ". Je voyage de villages en villages");
+			System.out.println("Le Gaulois " + nom + " : \"Bonjour, je m'appelle " + nom + ". Je voyage de villages en villages.");
 		}
 	}
 }
