@@ -2,6 +2,7 @@ package test_fonctionnel;
 
 import personnages.Gaulois;
 import personnages.Romain;
+import village_gaulois.Village;
 import personnages.Druide;
 
 public class TestGaulois {
